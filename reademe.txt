@@ -4,3 +4,6 @@ hello!
 hi!
 
 zhq,are you ready?
+no,I am not ready!
+
+if you say : zhq is a handsome boy!
